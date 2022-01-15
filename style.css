@@ -1,0 +1,34 @@
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+}
+h2{
+    margin-left: 48px;
+}
+h1{
+    font-size:50px;
+}
+.button{
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    color: whitesmoke;
+    padding: 5px 10px;
+    
+}
+/* frist-part */
+.frist-part{
+    display: flex;
+    padding: 50px;
+   
+}
+.frist img{
+    width: 100%;
+    padding: 50px;
+}
+.second{
+    text-align: center;
+}
